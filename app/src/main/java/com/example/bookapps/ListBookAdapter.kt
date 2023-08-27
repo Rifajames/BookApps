@@ -43,6 +43,6 @@ class ListBookAdapter(private val listBook: ArrayList<Book>) :
     }
 
     interface OnItemClickCallback {
-        fun onItemClicked(data: Hero)
+        fun onItemClicked(data: Book)
     }
 }

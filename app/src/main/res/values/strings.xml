@@ -1,7 +1,13 @@
 <resources>
     <string name="app_name">BookApps</string>
 
-    <integer-array name="data_photo">
+    <string-array name="books_name">
+        <item>Nama Pahlawan</item>
+        <item>Description</item>
+        <!-- Add more items here if needed -->
+    </string-array>
+
+    <string-array name="data_photo">
         <item>@drawable/gof</item>
         <item>@drawable/java</item>
         <item>@drawable/javascript</item>
@@ -12,9 +18,9 @@
         <item>@drawable/androkotlin</item>
         <item>@drawable/swift</item>
         <item>@drawable/html</item>
-    </integer-array>
+    </string-array>
 
-    <integer-array name="data_Title">
+    <string-array name="data_Title">
         <item>Design Patterns: Elements of Reusable Object-Oriented Software</item>
         <item>Java Programming</item>
         <item>Learning JavaScript Design Patterns</item>
@@ -25,9 +31,9 @@
         <item>Android Development with Kotlin</item>
         <item>IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics</item>
         <item>HTML &amp; CSS: Design and Build Web Sites</item>
-    </integer-array>
+    </string-array>
 
-    <integer-array name="data_Writer">
+    <string-array name="data_Writer">
         <item>Erich Gamma, John Vlissides, Richard Helm, Ralph Johnson</item>
         <item>Joyce Farrell</item>
         <item>Addy Osmani</item>
@@ -38,9 +44,9 @@
         <item>Marcin Moskala, Igor Wojda</item>
         <item>Matt Neuburg</item>
         <item>Jon Duckett</item>
-    </integer-array>
+    </string-array>
 
-    <integer-array name="data_description">
+    <string-array name="data_description">
         <item>Design Patterns: Elements of Reusable Object-Oriented Software is a software engineering book describing software design patterns. The book was written by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, with a foreword by Grady Booch.</item>
         <item>Discover the power of Java for developing applications with the engaging, hands-on approach in Farrell's JAVA PROGRAMMING, 8E. With this book, even first-time programmers can quickly develop useful programs while learning the basic principles of structured and object-oriented programming</item>
         <item>With Learning JavaScript Design Patterns, you’ll learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language</item>
@@ -51,5 +57,5 @@
         <item>Learn how to make Android development much faster using a variety of Kotlin features, from basics to advanced, to write better quality code.About This BookLeverage specific features of Kotlin to ease</item>
         <item>If you're grounded in the basics of Swift, Xcode, and the Cocoa framework, this book provides a structured explanation of all essential real-world iOS app components. Through deep exploration and copious code examples, you'll learn how to create views, manipulate view controllers, and add features from iOS frameworks.</item>
         <item>Jon Duckett","A full-color introduction to the basics of HTML and CSS from the publishers of Wrox!  Every day, more and more people want to learn some HTML and CSS</item>
-    </integer-array>
+    </string-array>
 </resources>
