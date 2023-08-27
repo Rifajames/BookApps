@@ -1,16 +1,17 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id 'kotlin-parcelize'
 }
 
 android {
     namespace 'com.example.bookapps'
-    compileSdk 32
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.example.bookapps"
         minSdk 22
-        targetSdk 32
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
