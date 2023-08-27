@@ -1,61 +1,57 @@
 <resources>
     <string name="app_name">BookApps</string>
 
-    <string-array name="books_name">
-        <item>Nama Pahlawan</item>
-        <item>Description</item>
-        <!-- Add more items here if needed -->
-    </string-array>
+    <!--    <string name="books_name">Nama Pahlawan</string>-->
+    <!--    <string name="description">Deskripsi</string>-->
+    <!--    <integer-array name="data_photo">-->
+    <!--        <item>@drawable/gof</item>-->
+    <!--        <item>@drawable/java</item>-->
+    <!--        <item>@drawable/javascript</item>-->
+    <!--        <item>@drawable/dbdesign</item>-->
+    <!--        <item>@drawable/sql</item>-->
+    <!--        <item>@drawable/dbsystem</item>-->
+    <!--        <item>@drawable/progkotlin</item>-->
+    <!--        <item>@drawable/androkotlin</item>-->
+    <!--        <item>@drawable/swift</item>-->
+    <!--        <item>@drawable/html</item>-->
+    <!--    </integer-array>-->
 
-    <string-array name="data_photo">
-        <item>@drawable/gof</item>
-        <item>@drawable/java</item>
-        <item>@drawable/javascript</item>
-        <item>@drawable/dbdesign</item>
-        <item>@drawable/sql</item>
-        <item>@drawable/dbsystem</item>
-        <item>@drawable/progkotlin</item>
-        <item>@drawable/androkotlin</item>
-        <item>@drawable/swift</item>
-        <item>@drawable/html</item>
-    </string-array>
+    <!--    <string-array name="data_Title">-->
+    <!--        <item>Design Patterns: Elements of Reusable Object-Oriented Software</item>-->
+    <!--        <item>Java Programming</item>-->
+    <!--        <item>Learning JavaScript Design Patterns</item>-->
+    <!--        <item>Database Design for Mere Mortals: A Hands-on Guide to Relational Database Design</item>-->
+    <!--        <item>The art of SQL</item>-->
+    <!--        <item>Fundamentals of Database Systems</item>-->
+    <!--        <item>Programming Kotlin: Create Elegant, Expressive, and Performant JVM and Android Applications</item>-->
+    <!--        <item>Android Development with Kotlin</item>-->
+    <!--        <item>IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics</item>-->
+    <!--        <item>HTML &amp; CSS: Design and Build Web Sites</item>-->
+    <!--    </string-array>-->
 
-    <string-array name="data_Title">
-        <item>Design Patterns: Elements of Reusable Object-Oriented Software</item>
-        <item>Java Programming</item>
-        <item>Learning JavaScript Design Patterns</item>
-        <item>Database Design for Mere Mortals: A Hands-on Guide to Relational Database Design</item>
-        <item>The art of SQL</item>
-        <item>Fundamentals of Database Systems</item>
-        <item>Programming Kotlin: Create Elegant, Expressive, and Performant JVM and Android Applications</item>
-        <item>Android Development with Kotlin</item>
-        <item>IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics</item>
-        <item>HTML &amp; CSS: Design and Build Web Sites</item>
-    </string-array>
+    <!--    <string-array name="data_Writer">-->
+    <!--        <item>Erich Gamma, John Vlissides, Richard Helm, Ralph Johnson</item>-->
+    <!--        <item>Joyce Farrell</item>-->
+    <!--        <item>Addy Osmani</item>-->
+    <!--        <item>Michael J. Hernandez</item>-->
+    <!--        <item>Stéphane Faroult</item>-->
+    <!--        <item>Ramez Elmasri</item>-->
+    <!--        <item>Venkat Subramaniam</item>-->
+    <!--        <item>Marcin Moskala, Igor Wojda</item>-->
+    <!--        <item>Matt Neuburg</item>-->
+    <!--        <item>Jon Duckett</item>-->
+    <!--    </string-array>-->
 
-    <string-array name="data_Writer">
-        <item>Erich Gamma, John Vlissides, Richard Helm, Ralph Johnson</item>
-        <item>Joyce Farrell</item>
-        <item>Addy Osmani</item>
-        <item>Michael J. Hernandez</item>
-        <item>Stéphane Faroult</item>
-        <item>Ramez Elmasri</item>
-        <item>Venkat Subramaniam</item>
-        <item>Marcin Moskala, Igor Wojda</item>
-        <item>Matt Neuburg</item>
-        <item>Jon Duckett</item>
-    </string-array>
-
-    <string-array name="data_description">
-        <item>Design Patterns: Elements of Reusable Object-Oriented Software is a software engineering book describing software design patterns. The book was written by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, with a foreword by Grady Booch.</item>
-        <item>Discover the power of Java for developing applications with the engaging, hands-on approach in Farrell's JAVA PROGRAMMING, 8E. With this book, even first-time programmers can quickly develop useful programs while learning the basic principles of structured and object-oriented programming</item>
-        <item>With Learning JavaScript Design Patterns, you’ll learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language</item>
-        <item>Database Design for Mere Mortals™, Second Edition, is a straightforward, platform-independent tutorial on the basic principles of relational database design. It provides a commonsense design methodology for developing databases that work</item>
-        <item>For all the buzz about trendy IT techniques, data processing is still at the core of our systems, especially now that enterprises all over the world are confronted with exploding volumes of data</item>
-        <item>Basic concepts; Databases and database users; Database system concepts and architecture; Data modeling using the entity-relationship approach; Record storage and primary file organizations; Index</item>
-        <item>Kotlin is a highly concise, elegant, fluent, and expressive statically typed multi-paradigm language.</item>
-        <item>Learn how to make Android development much faster using a variety of Kotlin features, from basics to advanced, to write better quality code.About This BookLeverage specific features of Kotlin to ease</item>
-        <item>If you're grounded in the basics of Swift, Xcode, and the Cocoa framework, this book provides a structured explanation of all essential real-world iOS app components. Through deep exploration and copious code examples, you'll learn how to create views, manipulate view controllers, and add features from iOS frameworks.</item>
-        <item>Jon Duckett","A full-color introduction to the basics of HTML and CSS from the publishers of Wrox!  Every day, more and more people want to learn some HTML and CSS</item>
-    </string-array>
+    <!--    <string-array name="data_description">-->
+    <!--        <item>Design Patterns: Elements of Reusable Object-Oriented Software is a software engineering book describing software design patterns. The book was written by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, with a foreword by Grady Booch.</item>-->
+    <!--        <item>Discover the power of Java for developing applications with the engaging, hands-on approach in Farrell's JAVA PROGRAMMING, 8E. With this book, even first-time programmers can quickly develop useful programs while learning the basic principles of structured and object-oriented programming</item>-->
+    <!--        <item>With Learning JavaScript Design Patterns, you’ll learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language</item>-->
+    <!--        <item>Database Design for Mere Mortals™, Second Edition, is a straightforward, platform-independent tutorial on the basic principles of relational database design. It provides a commonsense design methodology for developing databases that work</item>-->
+    <!--        <item>For all the buzz about trendy IT techniques, data processing is still at the core of our systems, especially now that enterprises all over the world are confronted with exploding volumes of data</item>-->
+    <!--        <item>Basic concepts; Databases and database users; Database system concepts and architecture; Data modeling using the entity-relationship approach; Record storage and primary file organizations; Index</item>-->
+    <!--        <item>Kotlin is a highly concise, elegant, fluent, and expressive statically typed multi-paradigm language.</item>-->
+    <!--        <item>Learn how to make Android development much faster using a variety of Kotlin features, from basics to advanced, to write better quality code.About This BookLeverage specific features of Kotlin to ease</item>-->
+    <!--        <item>If you're grounded in the basics of Swift, Xcode, and the Cocoa framework, this book provides a structured explanation of all essential real-world iOS app components. Through deep exploration and copious code examples, you'll learn how to create views, manipulate view controllers, and add features from iOS frameworks.</item>-->
+    <!--        <item>Jon Duckett","A full-color introduction to the basics of HTML and CSS from the publishers of Wrox!  Every day, more and more people want to learn some HTML and CSS</item>-->
+    <!--    </string-array>-->
 </resources>
